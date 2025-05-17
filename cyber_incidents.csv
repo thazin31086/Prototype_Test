@@ -1,0 +1,9 @@
+incident_type,severity,location,timestamp
+phishing,high,US,01/01/25 10:00
+malware,medium,EU,02/01/25 11:30
+ddos,low,ASIA,03/01/25 14:00
+phishing,high,US,04/01/25 9:45
+ransomware,critical,EU,05/01/25 13:20
+malware,medium,ASIA,06/01/25 8:00
+ddos,low,US,07/01/25 16:10
+ransomware,critical,EU,08/01/25 12:00
