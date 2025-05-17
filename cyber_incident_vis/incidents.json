@@ -1,0 +1,802 @@
+[
+  {
+    "id": 0,
+    "num_alerts": 5,
+    "attack_duration_sec": 681.2922375385073,
+    "num_targets": 1,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 1,
+    "num_alerts": 4,
+    "attack_duration_sec": 192.7143424939781,
+    "num_targets": 6,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 2,
+    "num_alerts": 4,
+    "attack_duration_sec": 330.38672509571416,
+    "num_targets": 5,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 3,
+    "num_alerts": 5,
+    "attack_duration_sec": 56.738555133964944,
+    "num_targets": 4,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 4,
+    "num_alerts": 5,
+    "attack_duration_sec": 64.06529429852851,
+    "num_targets": 3,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 5,
+    "num_alerts": 3,
+    "attack_duration_sec": 12.518163815269592,
+    "num_targets": 1,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 6,
+    "num_alerts": 5,
+    "attack_duration_sec": 55.514203219674265,
+    "num_targets": 6,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 7,
+    "num_alerts": 4,
+    "attack_duration_sec": 97.96443558934365,
+    "num_targets": 2,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 8,
+    "num_alerts": 6,
+    "attack_duration_sec": 58.44354524493238,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 9,
+    "num_alerts": 7,
+    "attack_duration_sec": 27.86577235811027,
+    "num_targets": 5,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 10,
+    "num_alerts": 2,
+    "attack_duration_sec": 38.56686404800576,
+    "num_targets": 7,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 11,
+    "num_alerts": 5,
+    "attack_duration_sec": 185.28880300961373,
+    "num_targets": 2,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 12,
+    "num_alerts": 5,
+    "attack_duration_sec": 69.32766190352898,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 13,
+    "num_alerts": 6,
+    "attack_duration_sec": 135.89433465327556,
+    "num_targets": 2,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 14,
+    "num_alerts": 4,
+    "attack_duration_sec": 210.0015554142991,
+    "num_targets": 4,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 15,
+    "num_alerts": 6,
+    "attack_duration_sec": 351.73723020376264,
+    "num_targets": 1,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 16,
+    "num_alerts": 6,
+    "attack_duration_sec": 12.031719030004627,
+    "num_targets": 5,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 17,
+    "num_alerts": 1,
+    "attack_duration_sec": 481.9482731478359,
+    "num_targets": 9,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 18,
+    "num_alerts": 7,
+    "attack_duration_sec": 296.5781071101889,
+    "num_targets": 1,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 19,
+    "num_alerts": 2,
+    "attack_duration_sec": 25.58862911290028,
+    "num_targets": 9,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 20,
+    "num_alerts": 11,
+    "attack_duration_sec": 620.4404095464272,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 21,
+    "num_alerts": 4,
+    "attack_duration_sec": 761.0080639136784,
+    "num_targets": 6,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 22,
+    "num_alerts": 3,
+    "attack_duration_sec": 18.90684826804902,
+    "num_targets": 7,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 23,
+    "num_alerts": 8,
+    "attack_duration_sec": 97.25305293859525,
+    "num_targets": 3,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 24,
+    "num_alerts": 3,
+    "attack_duration_sec": 492.28055496799277,
+    "num_targets": 1,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 25,
+    "num_alerts": 3,
+    "attack_duration_sec": 413.8071720642925,
+    "num_targets": 5,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 26,
+    "num_alerts": 5,
+    "attack_duration_sec": 61.19388961854014,
+    "num_targets": 2,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 27,
+    "num_alerts": 8,
+    "attack_duration_sec": 70.46970935445997,
+    "num_targets": 5,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 28,
+    "num_alerts": 3,
+    "attack_duration_sec": 138.83553300731091,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 29,
+    "num_alerts": 2,
+    "attack_duration_sec": 198.79876940058432,
+    "num_targets": 9,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 30,
+    "num_alerts": 5,
+    "attack_duration_sec": 288.9005502175656,
+    "num_targets": 2,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 31,
+    "num_alerts": 3,
+    "attack_duration_sec": 138.09376890010535,
+    "num_targets": 3,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 32,
+    "num_alerts": 8,
+    "attack_duration_sec": 186.26733276627527,
+    "num_targets": 3,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 33,
+    "num_alerts": 10,
+    "attack_duration_sec": 412.86868211695275,
+    "num_targets": 1,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 34,
+    "num_alerts": 3,
+    "attack_duration_sec": 11.211885696443538,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 35,
+    "num_alerts": 2,
+    "attack_duration_sec": 87.28098656471917,
+    "num_targets": 6,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 36,
+    "num_alerts": 5,
+    "attack_duration_sec": 374.8475624868077,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 37,
+    "num_alerts": 7,
+    "attack_duration_sec": 676.730026299184,
+    "num_targets": 9,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 38,
+    "num_alerts": 6,
+    "attack_duration_sec": 215.03373366252026,
+    "num_targets": 5,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 39,
+    "num_alerts": 6,
+    "attack_duration_sec": 227.85885070592067,
+    "num_targets": 3,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 40,
+    "num_alerts": 2,
+    "attack_duration_sec": 34.00840156219901,
+    "num_targets": 5,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 41,
+    "num_alerts": 4,
+    "attack_duration_sec": 177.94297382506525,
+    "num_targets": 5,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 42,
+    "num_alerts": 9,
+    "attack_duration_sec": 228.18203971658698,
+    "num_targets": 5,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 43,
+    "num_alerts": 7,
+    "attack_duration_sec": 83.307840978196,
+    "num_targets": 3,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 44,
+    "num_alerts": 11,
+    "attack_duration_sec": 94.10238356356315,
+    "num_targets": 4,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 45,
+    "num_alerts": 8,
+    "attack_duration_sec": 142.0994954407416,
+    "num_targets": 9,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 46,
+    "num_alerts": 3,
+    "attack_duration_sec": 6.082608225094354,
+    "num_targets": 9,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 47,
+    "num_alerts": 2,
+    "attack_duration_sec": 116.61742837684072,
+    "num_targets": 2,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 48,
+    "num_alerts": 3,
+    "attack_duration_sec": 71.26708068708896,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 49,
+    "num_alerts": 4,
+    "attack_duration_sec": 119.0247690695948,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 50,
+    "num_alerts": 5,
+    "attack_duration_sec": 38.26893098543438,
+    "num_targets": 7,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 51,
+    "num_alerts": 5,
+    "attack_duration_sec": 663.6239699829074,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 52,
+    "num_alerts": 4,
+    "attack_duration_sec": 270.1196441638679,
+    "num_targets": 3,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 53,
+    "num_alerts": 3,
+    "attack_duration_sec": 340.9898873679095,
+    "num_targets": 6,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 54,
+    "num_alerts": 8,
+    "attack_duration_sec": 467.01270971333736,
+    "num_targets": 1,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 55,
+    "num_alerts": 2,
+    "attack_duration_sec": 207.01092655466553,
+    "num_targets": 7,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 56,
+    "num_alerts": 1,
+    "attack_duration_sec": 27.279628355236753,
+    "num_targets": 1,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 57,
+    "num_alerts": 4,
+    "attack_duration_sec": 231.07750898844677,
+    "num_targets": 9,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 58,
+    "num_alerts": 5,
+    "attack_duration_sec": 265.17691736141205,
+    "num_targets": 1,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 59,
+    "num_alerts": 4,
+    "attack_duration_sec": 410.4649946425228,
+    "num_targets": 1,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 60,
+    "num_alerts": 3,
+    "attack_duration_sec": 169.51039481489462,
+    "num_targets": 7,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 61,
+    "num_alerts": 4,
+    "attack_duration_sec": 40.94540001879367,
+    "num_targets": 2,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 62,
+    "num_alerts": 8,
+    "attack_duration_sec": 100.12865407851118,
+    "num_targets": 5,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 63,
+    "num_alerts": 2,
+    "attack_duration_sec": 135.33444764238703,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 64,
+    "num_alerts": 2,
+    "attack_duration_sec": 311.4673834865585,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 65,
+    "num_alerts": 2,
+    "attack_duration_sec": 253.73451636042589,
+    "num_targets": 3,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 66,
+    "num_alerts": 7,
+    "attack_duration_sec": 132.06202789554186,
+    "num_targets": 7,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 67,
+    "num_alerts": 6,
+    "attack_duration_sec": 1291.8587316509436,
+    "num_targets": 3,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 68,
+    "num_alerts": 7,
+    "attack_duration_sec": 279.2499025401628,
+    "num_targets": 6,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 69,
+    "num_alerts": 6,
+    "attack_duration_sec": 81.23835862703999,
+    "num_targets": 6,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 70,
+    "num_alerts": 7,
+    "attack_duration_sec": 32.202901387466056,
+    "num_targets": 3,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 71,
+    "num_alerts": 6,
+    "attack_duration_sec": 49.76648777694776,
+    "num_targets": 7,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 72,
+    "num_alerts": 4,
+    "attack_duration_sec": 84.69205481854229,
+    "num_targets": 3,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 73,
+    "num_alerts": 2,
+    "attack_duration_sec": 52.549462486288206,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 74,
+    "num_alerts": 3,
+    "attack_duration_sec": 61.94752363637412,
+    "num_targets": 4,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 75,
+    "num_alerts": 4,
+    "attack_duration_sec": 100.68175446463395,
+    "num_targets": 1,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 76,
+    "num_alerts": 7,
+    "attack_duration_sec": 57.120730098866105,
+    "num_targets": 4,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 77,
+    "num_alerts": 4,
+    "attack_duration_sec": 681.2254348067746,
+    "num_targets": 7,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 78,
+    "num_alerts": 3,
+    "attack_duration_sec": 25.090713777600048,
+    "num_targets": 4,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 79,
+    "num_alerts": 2,
+    "attack_duration_sec": 223.0237050338108,
+    "num_targets": 6,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 80,
+    "num_alerts": 6,
+    "attack_duration_sec": 158.4916669467907,
+    "num_targets": 9,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 81,
+    "num_alerts": 3,
+    "attack_duration_sec": 1211.592649804776,
+    "num_targets": 1,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 82,
+    "num_alerts": 5,
+    "attack_duration_sec": 35.64820370922147,
+    "num_targets": 5,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 83,
+    "num_alerts": 9,
+    "attack_duration_sec": 152.17739812272913,
+    "num_targets": 7,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 84,
+    "num_alerts": 6,
+    "attack_duration_sec": 1046.7178992380145,
+    "num_targets": 1,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 85,
+    "num_alerts": 6,
+    "attack_duration_sec": 601.8732185904464,
+    "num_targets": 4,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 86,
+    "num_alerts": 9,
+    "attack_duration_sec": 509.59891021085383,
+    "num_targets": 6,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 87,
+    "num_alerts": 4,
+    "attack_duration_sec": 89.48252506005139,
+    "num_targets": 2,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 88,
+    "num_alerts": 9,
+    "attack_duration_sec": 56.21985983594627,
+    "num_targets": 5,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 89,
+    "num_alerts": 2,
+    "attack_duration_sec": 331.36787960453506,
+    "num_targets": 1,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 90,
+    "num_alerts": 10,
+    "attack_duration_sec": 795.1155284879866,
+    "num_targets": 6,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 91,
+    "num_alerts": 6,
+    "attack_duration_sec": 244.09512657142267,
+    "num_targets": 6,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 92,
+    "num_alerts": 9,
+    "attack_duration_sec": 254.31826843757597,
+    "num_targets": 4,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 93,
+    "num_alerts": 4,
+    "attack_duration_sec": 98.54250924319524,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 94,
+    "num_alerts": 1,
+    "attack_duration_sec": 440.24212752362655,
+    "num_targets": 4,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 95,
+    "num_alerts": 6,
+    "attack_duration_sec": 62.12339464382125,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 96,
+    "num_alerts": 8,
+    "attack_duration_sec": 117.32634393576978,
+    "num_targets": 8,
+    "severity": "High",
+    "severity_score": 2
+  },
+  {
+    "id": 97,
+    "num_alerts": 6,
+    "attack_duration_sec": 166.24336502094917,
+    "num_targets": 5,
+    "severity": "Medium",
+    "severity_score": 1
+  },
+  {
+    "id": 98,
+    "num_alerts": 2,
+    "attack_duration_sec": 212.54548879340956,
+    "num_targets": 4,
+    "severity": "Low",
+    "severity_score": 0
+  },
+  {
+    "id": 99,
+    "num_alerts": 3,
+    "attack_duration_sec": 83.28377507088175,
+    "num_targets": 2,
+    "severity": "Low",
+    "severity_score": 0
+  }
+]

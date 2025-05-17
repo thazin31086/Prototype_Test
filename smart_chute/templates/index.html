@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Smart Escape Chute Visualization</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    .status-circle { r: 30; }
+    .Safe { fill: green; }
+    .Warning { fill: orange; }
+    .Danger { fill: red; }
+  </style>
+</head>
+<body>
+  <h2>Smart Escape Chute Status</h2>
+  <svg width="400" height="200"></svg>
+
+  <script>
+    const svg = d3.select("svg");
+
+    function fetchData() {
+      fetch("/data")
+        .then(response => response.json())
+        .then(data => {
+          svg.selectAll("*").remove();
+          svg.append("text").attr("x", 20).attr("y", 30)
+            .text(`Temperature: ${data.temperature} °C`);
+          svg.append("text").attr("x", 20).attr("y", 60)
+            .text(`Pressure: ${data.pressure} kPa`);
+          svg.append("text").attr("x", 20).attr("y", 90)
+            .text(`Status: ${data.status}`);
+
+          svg.append("circle")
+            .attr("cx", 300).attr("cy", 60)
+            .attr("r", 30)
+            .attr("class", data.status);
+        });
+    }
+
+    fetchData();
+    setInterval(fetchData, 3000);  // Refresh every 3 seconds
+  </script>
+</body>
+</html>
